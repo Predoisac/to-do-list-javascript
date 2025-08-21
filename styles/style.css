@@ -1,0 +1,37 @@
+body {
+    background-color: beige;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+
+}
+
+main{
+    border-color: black;
+    background-color: white;
+    border-style: solid;
+    padding: 100px;
+}
+ul {   
+    list-style: none;
+    padding-left: 0;
+}
+li {
+    background-color:azure;
+    border-style: solid;
+    padding-left: 10px;
+}
+input {
+    border-radius: 10px;
+    
+}
+button {
+    background-color: blue;
+}
+delete-button {
+    background-color: crimson;
+}
